@@ -1,5 +1,4 @@
 # MsgBox
 Getting started VBScript MsgBoxes 
 
-Tutorial available on our Instagram page:
-https://www.instagram.com/p/CHSpnOCJBAU
+Tutorial available on my *Instagram* page: https://www.instagram.com/p/CHSpnOCJBAU
